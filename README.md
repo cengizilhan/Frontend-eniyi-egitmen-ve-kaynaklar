@@ -22,6 +22,7 @@ Bu alanda yeni başlayan arkadaşlara rehber olması açısından bir liste olu�
 2) [Prototurk - Tayfun Erbilen](https://www.youtube.com/c/PROTOTURKCOM)
 3) [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 4) [Sadık Turan](https://www.youtube.com/user/sadikturan41/videos)
+5) [Adem Ilter](https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg)
 
 ## İngilizce Kaynaklar 
 
