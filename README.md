@@ -30,7 +30,7 @@ Bu alanda yeni başlayan arkadaşlara rehber olması açısından bir liste olu�
 
 
 ### Notlar
-Her ne kadar kaliteli Türkçe içerik üreticileri olsa da sadece "Türkçe" ile belli bir sınırı aşamazsınız arkadaşlar. O yüzden hiç İngilizce bilginiz yoksa bile, yeni öğrendiniz kelimelerin anlamlarını Google Translate aracılığı ile öğrenip, yavaş yavaş teknik ingilizce konusunda kendinizi geliştirebilirsiniz.Kelimelerin anlamlarını bilmeniz, onu hafızada tutmanızda kolaylık sağlayacaktır.
+Her ne kadar kaliteli Türkçe içerik üreticileri olsada sadece "Türkçe" ile belli bir sınırı aşamazsınız arkadaşlar. O yüzden hiç İngilizce bilginiz yoksa bile, yeni öğrendiniz kelimelerin anlamlarını Google Translate aracılığı ile öğrenip, yavaş yavaş teknik ingilizce konusunda kendinizi geliştirebilirsiniz.Kelimelerin anlamlarını bilmeniz, onu hafızada tutmanızda kolaylık sağlayacaktır.
 
 Frontend konusunda çok yeniyseniz neleri, hangi sıralamada öğrenmeniz gerektiği konusunda sıkıntı yaşıyor olmanız muhtemeldir.
 Bu sebeple önce Patika.dev gibi platformdan "sıralı" eğitim almanız daha sağlıklı olabilir.
