@@ -1,4 +1,4 @@
-# Frontend Alanında En İyi Eğitmen ve Kaynaklar
+# Frontend Alanında En İyi Eğitmenler ve Kaynaklar
 
 
 Selamlar! **Frontend alanında** başlangıç seviyesindeyseniz en çok sorun yaşadığınız konu, **kaliteli kaynak** veya **eğitmen** / içerik üreticileri bulmak olur.
