@@ -23,6 +23,8 @@ Bu alanda yeni başlayan arkadaşlara rehber olması açısından bir liste olu�
 3) [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 4) [Sadık Turan](https://www.youtube.com/user/sadikturan41/videos)
 5) [Adem Ilter](https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg)
+6) [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+
 
 ## İngilizce Kaynaklar 
 
